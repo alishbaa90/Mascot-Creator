@@ -20,4 +20,6 @@ This project is a text-to-image pipeline that creates a consistent, high-quality
 * **Python 3 (via Google Colab)**
 
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
+
+<img width="628" height="605" alt="Image" src="https://github.com/user-attachments/assets/04e891d2-1fda-4c14-9000-362992d30c86" />
